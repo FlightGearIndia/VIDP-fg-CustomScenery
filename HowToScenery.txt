@@ -1,0 +1,15 @@
+How to install scenery (Hornet's way)
+
+Unzip the file downloaded from GitHub, and take the folder (example: "VHXX-custom-scenery-master")and place it wherever you like. Open FlightGear, go to "Add-Ons". Navigate to "Additional Scenery Folders" and click "Add". Navigate through the folders to your downloaded scenery folder, select it, and click add/ok. Voila your latest scenery should be added to your FG. You can fly around in the scenery by navigating to the "Locations" tab, typing in your airport ICAO/Name/IATA code and selecting a start position.
+
+-------------------------
+
+For more information:- 
+
+Here's the wiki page on how to install:
+
+http://wiki.flightgear.org/Howto:Install_scenery
+
+Or contact any FlightGear personal to guide you
+
+Also don't forget to join the FGIndia official server ( https://discord.gg/UbvYQZUKzx ) to be updated with the latest development in the India region of FlightGear. 
