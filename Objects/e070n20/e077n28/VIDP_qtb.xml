@@ -1,0 +1,180 @@
+<PropertyList>
+  <path>VIDP_qtb.ac</path> 
+ <animation>
+  <type>material</type> 
+  <object-name>Minar1</object-name> 
+ <condition>
+ <greater-than>
+  <property>/sim/time/sun-angle-rad</property> 
+  <value>1.57</value> 
+  </greater-than>
+  </condition>
+  <global type="bool">true</global> 
+ <emission>
+  <red>0.78</red> 
+  <green>0.38</green> 
+  <blue>0.14</blue> 
+  </emission>
+    </animation>
+
+
+   <animation>
+     <type>material</type>
+     <object-name>Minar2</object-name>
+     <condition>
+       <greater-than>
+         <property>/sim/time/sun-angle-rad</property>
+         <value>1.57</value>
+       </greater-than>
+     </condition>
+     <global type="bool">true</global>
+     <emission>
+       <red>0.78</red>
+       <green>0.38</green>
+       <blue>0.14</blue>
+     </emission>
+   </animation>
+
+
+   <animation>
+     <type>material</type>
+     <object-name>Minar3</object-name>
+     <condition>
+       <greater-than>
+         <property>/sim/time/sun-angle-rad</property>
+         <value>1.57</value>
+       </greater-than>
+     </condition>
+     <global type="bool">true</global>
+     <emission>
+       <red>0.78</red>
+       <green>0.38</green>
+       <blue>0.14</blue>
+     </emission>
+   </animation>
+
+   <animation>
+     <type>material</type>
+     <object-name>Minar4</object-name>
+     <condition>
+       <greater-than>
+         <property>/sim/time/sun-angle-rad</property>
+         <value>1.57</value>
+       </greater-than>
+     </condition>
+     <global type="bool">true</global>
+     <emission>
+       <red>0.78</red>
+       <green>0.38</green>
+       <blue>0.14</blue>
+     </emission>
+   </animation>
+   
+ <animation>
+  <type>material</type> 
+  <object-name>Minar5</object-name> 
+ <condition>
+ <greater-than>
+  <property>/sim/time/sun-angle-rad</property> 
+  <value>1.57</value> 
+  </greater-than>
+  </condition>
+  <global type="bool">true</global> 
+ <emission>
+  <red>0.78</red> 
+  <green>0.38</green> 
+  <blue>0.14</blue> 
+  </emission>
+    </animation>
+   
+ <animation>
+  <type>material</type> 
+  <object-name>Minar1</object-name> 
+ <condition>
+<less-than-equals>
+  <property>/sim/time/sun-angle-rad</property> 
+  <value>1.57</value> 
+  </less-than-equals>
+  </condition>
+  <global type="bool">true</global> 
+ <emission>
+  <red>0</red> 
+  <green>0</green> 
+  <blue>0</blue> 
+  </emission>
+  
+  </animation>
+
+   <animation>
+     <type>material</type>
+     <object-name>Minar2</object-name>
+     <condition>
+       <less-than-equals>
+         <property>/sim/time/sun-angle-rad</property>
+         <value>1.57</value>
+       </less-than-equals>
+     </condition>
+     <global type="bool">true</global>
+     <emission>
+       <red>0</red>
+       <green>0</green>
+       <blue>0</blue>
+     </emission>
+
+   </animation>
+
+   <animation>
+     <type>material</type>
+     <object-name>Minar3</object-name>
+     <condition>
+       <less-than-equals>
+         <property>/sim/time/sun-angle-rad</property>
+         <value>1.57</value>
+       </less-than-equals>
+     </condition>
+     <global type="bool">true</global>
+     <emission>
+       <red>0</red>
+       <green>0</green>
+       <blue>0</blue>
+     </emission>
+
+   </animation>
+
+   <animation>
+     <type>material</type>
+     <object-name>Minar4</object-name>
+     <condition>
+       <less-than-equals>
+         <property>/sim/time/sun-angle-rad</property>
+         <value>1.57</value>
+       </less-than-equals>
+     </condition>
+     <global type="bool">true</global>
+     <emission>
+       <red>0</red>
+       <green>0</green>
+       <blue>0</blue>
+     </emission>
+
+   </animation>
+
+   <animation>
+     <type>material</type>
+     <object-name>Minar5</object-name>
+     <condition>
+       <less-than-equals>
+         <property>/sim/time/sun-angle-rad</property>
+         <value>1.57</value>
+       </less-than-equals>
+     </condition>
+     <global type="bool">true</global>
+     <emission>
+       <red>0</red>
+       <green>0</green>
+       <blue>0</blue>
+     </emission>
+
+   </animation>
+
+  </PropertyList>
