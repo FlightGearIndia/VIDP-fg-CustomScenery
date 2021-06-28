@@ -9,4 +9,4 @@ Models & Textures - Atharv Garg (MarkVI2)
 AI - Atharv Garg (MarkVI2)
 
 # Installation
-Please refer to HowToScenery.txt that will be downloaded with the scenery package.
+Please download the ZIP file then refer to HowToScenery.txt that will be downloaded with the scenery package.
