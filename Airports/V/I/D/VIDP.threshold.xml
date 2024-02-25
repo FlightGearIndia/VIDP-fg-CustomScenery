@@ -38,7 +38,7 @@
     <threshold>
       <lon>77.065757</lon>
       <lat>28.547190</lat>
-      <rwy>11</rwy>
+      <rwy>11R</rwy>
       <hdg-deg>103.90</hdg-deg>
       <displ-m>628.0</displ-m>
       <stopw-m></stopw-m>
@@ -46,7 +46,7 @@
     <threshold>
       <lon>77.109218</lon>
       <lat>28.537742</lat>
-      <rwy>29</rwy>
+      <rwy>29L</rwy>
       <hdg-deg>283.90</hdg-deg>
       <displ-m>1430.0</displ-m>
       <stopw-m></stopw-m>
